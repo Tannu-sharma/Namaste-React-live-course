@@ -1,0 +1,74 @@
+-----------------------:NOTES:-----------------------------------------------------------------------------------
+  ● React is a library
+  ● browser has JS engine thats ehy it knows window object (read more in namaste JS series)
+  ● shortest program of JS is an empty script.js file
+  ● React library is just like some other JS file which is wriiten by facebook developers.
+  ● React is a global object after injecting those CDN links in script tag.
+  ● React DOM is another global object
+  ● ReactDOM is web version of React
+  ● every react element is an object.
+  ● In react app we have only one root.
+  ● we can run react in just a small part of our app
+  ● when we render react root it will replace everything
+  ● React come with the idea of writing HTML and CSS in javascript. So, that we have no need to go to our inside html file again. 
+  ● function keyword to create the functions comes from JS engine and it understands by JS engine only.
+  ● arrow function takes this of its parent
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+  ●
+
+..................................................................................................................
+
+
+
+-----------------------:Questions And Answers:-----------------------------------------------------------------------------------
+ ● React is a library or a framework?
+ Ans-> React is a library.
+
+  ● Difference between library and framework? (Read More)
+ Ans-> https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/
+       https://www.interviewbit.com/blog/framework-vs-library/
+
+  ● carousels is library or framework?
+ Ans-> carousels is a library
+
+   ● Data structure to store everything inside js?
+ Ans-> memory heap
+
+   ● what is expression?
+ Ans-> anything which we can take and pass it in a variable
+    e.g. 30, function()=>{} etc are expressions
+        because
+        var x=30;
+        var b= function()=>{};
+
+   ● 
+ Ans-> 
+
+   ● 
+ Ans-> 
+
+   ● 
+ Ans-> 
+
+   ● 
+ Ans-> 
+..................................................................................................................
+
+
+

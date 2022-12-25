@@ -1,0 +1,11 @@
+-----------------------:MY DOUBTS:-------------------------------------------------------------------------------
+ques-> agar ham koi text h1 ke andar like ya direct body mai what is the difference?
+ques-> hamare vimient ke project mai ye cdn links kyu nhi hai?
+ques-> jab maine apne vimient ke dev env ke inspect ke console mai React type kiya nad pressed enter then it me error ki react nahi hai toh phir ye portal chal kaise rha hai?
+ques-> Why facebook needed to create react?
+ques-> ye jo ham h1 vgera bna rhe hai JS or react se unka use kya hai i mean voh toh ham pure HTML mai bhi bna skte hai...sirf dynamic ke liye kya?
+ques->why it is single page app???
+ques-> why we always import css file inside head tag?
+
+..................................................................................................................
+

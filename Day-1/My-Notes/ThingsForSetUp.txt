@@ -1,0 +1,70 @@
+-----------------------:THINGS YOU NEED FOR SETUP:---------------------------------------------------------------
+1. VS code
+2. install git
+3. install node and npm
+4. google chrome
+5. github
+6. VS code extensions:
+   a) Better comments
+   b) live server
+   c) bracket pair colorization toggler
+   d) ES7+ React/Redux/React-native snippets
+   e) Eslint
+   f) Preetier - code formatter
+   g) Preetier - ESlint
+   h) Git lens - git supercharged
+   i) HTML CSS support
+   j) VSCode icons
+   k) Preetify Json
+   l) Tailwind CSS intelligence
+   m) Tabnine AI autocomplete for javascript, python,...
+7. Extra MY VS CODE extensions:
+   a) Auto Close Tag
+   b) Auto Import - ES6, TS, JSX, TSX
+   c) Auto Rename Tag
+   d) Blackbox
+   e) Bracket Pair Color DLW
+   f) Code Debugger
+   g) Color Highlight
+   h) colorize
+   i) Console Log
+   j) CSS Flexbox Cheatsheet
+   k) CSS Peek
+   l) Git History
+   m) IntelliSense for CSS class names in HTML
+   n) JavaScript (ES6) code snippets
+   o) Jira and Bitbucket (Atlassian Labs)
+   p) SonarLint
+   q) TODO Highlight
+   r) Turbo Console Log
+   s) Thunder Client (this is just like postman in vs code)
+8. My chrome extensions:
+   a)
+   b)
+   c)
+   d)
+   e)
+   f)
+   g)
+   h)
+   i)
+   j)
+   k)
+   l)
+   m)
+   n)
+   o)
+   p)
+   q)
+   r)
+   s)
+   t)
+   u)
+   v)
+   w)
+   x)
+   y)
+   z)
+
+..................................................................................................................
+

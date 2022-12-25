@@ -1,0 +1,55 @@
+-----------------------:TOPICS TO LEARN:-------------------------------------------------------------------------
+ ●  Emmet
+ ●  CDN (content delivery network)
+ ●  crossorigin and CORS
+ ●  owl carousel
+ ●  DOM manipulation in js
+ ●  difference between async and defer 
+ ●  difference between library and framework
+ ●  browser APIs (react window, document object etc...)
+ ●  ReactDOM and React global objects
+ ●  JS engine and web APIs
+ ●  ES6 and vanilla JS
+ ●  call apply and bind
+ ●  arrow functions and this inside those
+ ●  prototype in JS
+ ●  use strict
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+ ●
+..................................................................................................................
